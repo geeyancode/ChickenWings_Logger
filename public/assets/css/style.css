@@ -1,0 +1,38 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+.hero-image {
+  background-image: url("/assets/images/wings.jpg");
+  background-color: #cccccc;
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.body-text {
+  color: white;
+  text-shadow: 2px 2px black;
+  text-align: center;
+
+}
+.row-centered {
+  text-align:center;
+}
